@@ -1,0 +1,1 @@
+# Comparative_analysis_DGM_DRM_and_PINN_for_solving_PDE

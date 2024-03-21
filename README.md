@@ -1,1 +1,1 @@
-# Comparative_analysis_DGM_DRM_and_PINN_for_solving_PDE
+# Comparative analysis deep Galerkin method deep Ritz method and physics informed neural network for solving PDE
